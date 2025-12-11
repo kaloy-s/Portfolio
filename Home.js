@@ -1,4 +1,3 @@
-// Theme toggle: toggles data-theme on <html> and persists choice in localStorage
 (function(){
 	const KEY = 'site-theme';
 	const root = document.documentElement;
